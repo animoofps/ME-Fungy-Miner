@@ -23,6 +23,11 @@ local function findNpcOrObject(npcid, distance, objType)
     return #API.GetAllObjArray1({npcid}, distance, {objType}) > 0
 end
 
+function findObj(objectid, distance)
+    local distance = distance or 15
+    return #API.GetAllObjArrayInteract({objectid}, distance, {0}) > 0
+end
+
 local fungy = {
     NotShiny = {121765, 121768, 121762, 121759}, -- type12
     Shiny = {121769, 121763, 121760, 121766} -- type0
