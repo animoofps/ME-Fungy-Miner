@@ -1,7 +1,7 @@
 # ME-Fungy-Miner
 ### RS3 Mining script that mines 	<sup>fungi</sup> at the Croesus front. (Edited Dead's Soft Clay Miner so that it works with the <sub>fungi</sub>)
 ![image](https://github.com/animoofps/ME-Fungy-Miner/assets/144723877/2b7dc355-3fec-4126-9502-ac62af79856a)
-- Be sure to have the appropriate level to mine (**92**) the sparkling nodes, otherwise edit it so that it doesn't mine them
+- Be sure to have the appropriate level to mine the sparkling nodes (**92**), otherwise edit it so that it doesn't mine them
 **XP** isn't the greatest, but it is used to farm Troves primarily.
 ##
 **Change stuff here so that it drops <sup>fungi</sup> from your ability bar**
