@@ -7,6 +7,7 @@
 
 ![image](https://github.com/animoofps/ME-Fungy-Miner/assets/144723877/69b70171-2a16-446a-bdb5-a368a3e248eb)
 
+- Be sure to have the appropriate level to mine the sparkling nodes, otherwise edit it so that it doesn't mine the sparkled ones
 ## Setup
 - ### Download and use [****Dead's utils****](https://me.deadcod.es/dead-utils) 
 
