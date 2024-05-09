@@ -3,6 +3,7 @@
 ![image](https://github.com/animoofps/ME-Fungy-Miner/assets/144723877/2b7dc355-3fec-4126-9502-ac62af79856a)
 
 **XP** isn't the greatest, but it is used to farm Troves primarily.
+##
 - Change stuff here so that it drops <sup>fungi</sup> from your ability bar
 
 ![image](https://github.com/animoofps/ME-Fungy-Miner/assets/144723877/69b70171-2a16-446a-bdb5-a368a3e248eb)
