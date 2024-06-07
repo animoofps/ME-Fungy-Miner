@@ -1,10 +1,6 @@
 print("Fungus bungus initiated (dead's stolen code edition) by Dead [p.s. by DeadCodes (if it wasn't obvious already)]")
-
--- INCLUDES_START
 local API = require("api")
-local LODESTONES = require("lodestones")
 local UTILS = require("utils")
--- INCLUDES_END
 
 API.SetDrawTrackedSkills(true)
 
